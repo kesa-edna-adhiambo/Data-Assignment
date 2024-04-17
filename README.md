@@ -1,5 +1,5 @@
 # Data-Assignment
-It contains  stack files and tuple files with their descriptions.
+It contains  stack files, tuple files, and queue files with their descriptions.
 
 ## Stacks
 This refers to a container in which insertion and deletion can be made from one end known as the top of the stack.
@@ -19,7 +19,7 @@ Items can be accessed in tuples through indexing where -1 is for the last item a
 
 ## Queue
 Is a data structure that allows the addition and removal of elements in a FIFO order.
-Follows the FIFO principal.
+Follows the FIFO principle.
 It has several operations such as:
 Enqueue - Adds an element at the end of the queue.
 Dequeue - removes the element at the front of the queue.
